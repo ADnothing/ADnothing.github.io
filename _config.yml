@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:adrien.anthore@obspm.fr"}
   - {title: Github, icon: github, url: "https://github.com/ADnothing"}
-  - {title: TikTok, icon: tiktok, url: "https://www.tiktok.com/@observatoire_dadrien"}
+  - {title: TikTok, icon.tiktok: tiktok, url: "https://www.tiktok.com/@observatoire_dadrien"}
   - {title: YouTube, icon: youtube, url: "http://www.youtube.com/@lobservatoiredadrien"}
   - {title: Instagram, icon: instagram, url: "http://www.youtube.com/@lobservatoiredadrien"}
   
