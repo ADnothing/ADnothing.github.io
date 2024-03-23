@@ -16,4 +16,4 @@ Since 2020, I have been actively involved in science communication and populariz
 
 ## Center of interest
 
-Astrophysics ; Radioastronomy ; Galaxies ; Machine-Learning ; Observations ; Popular Science ; Open Science.
+Astrophysics/Astronomy ; Radioastronomy ; Galaxies ; Machine-Learning ; Observations ; Popular Science ; Open Science.
