@@ -23,7 +23,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:adrien.anthore@obspm.fr"}
   - {title: Github, icon: github, url: "https://github.com/ADnothing"}
   - {title: Linkedin, icon: linkedin, url: "https://fr.linkedin.com/in/adrien-anthore-625152225"}
-  - {title: Links, icon: up-right-from-square, url: "https://linktr.ee/lobservatoiredadrien"}
+  - {title: Links, icon: link, url: "https://linktr.ee/lobservatoiredadrien"}
   
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
