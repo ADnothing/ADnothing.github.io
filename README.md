@@ -6,7 +6,7 @@ layout: page
 
 ## Me in few words
 
-I am Adrien Anthore, 2nd year Master's student at the Paris Observatory | PSL ; President of BDE de l'Observatoire de Paris (student council) ; and Content creator for L'Observatoire d'Adrien.
+I am Adrien Anthore, 2nd year Master's student at the Paris Observatory - PSL ; President of BDE de l'Observatoire de Paris (student council) ; and Content creator for L'Observatoire d'Adrien.
 
 ## Bio
 
