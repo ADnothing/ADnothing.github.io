@@ -37,6 +37,20 @@ header a, footer a, aside a
 header time
   color: reduce(100)
 
+.profile-picture
+  display: inline-block
+  width: 150px /* Adjust the size as needed */
+  height: 150px /* Adjust the size as needed */
+  border-radius: 50% /* Makes it circular */
+  overflow: hidden /* Ensures image stays within circular frame */
+  margin: 0 auto /* Centers the circular frame horizontally */
+  border: 3px solid $light /* Add border if needed */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5) /* Add shadow for depth */
+
+.profile-picture img
+  width: 100%
+  height: auto
+
 hr
   border: 1px solid reduce(30)
   margin: 2em 0
