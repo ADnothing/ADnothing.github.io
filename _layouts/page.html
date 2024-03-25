@@ -2,11 +2,6 @@
 layout: default
 ---
 <article>
-  <header>
-  <h1><a href="{{ page.url | relative_url }}">{{ page.title }}</a></h1>
-  <div class="profile-picture">
-      <img src="./images/profilepic.png" alt="Adrien Anthore">
-  </div>
-  </header>
+  <header><h1><a href="{{ page.url | relative_url }}">{{ page.title }}</a></h1></header>
   {{ content }}
 </article>
