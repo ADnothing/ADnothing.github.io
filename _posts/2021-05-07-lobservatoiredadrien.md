@@ -11,7 +11,7 @@ The goal of this initiative was to be able to communicate and transmit my knowle
 I first started with YouTube, then I grew my audience with TikTok and Instagram. 
 Today, I make videos about physics in general, Astronomy/Astrophysics, and scientific research.
 I also post photos of my observations and my activities.
-To follow me, follow this [link](https://linktr.ee/lobservatoiredadrien)!
+To follow and support me, follow this [link](https://linktr.ee/lobservatoiredadrien)!
 
 ### YouTube
 
