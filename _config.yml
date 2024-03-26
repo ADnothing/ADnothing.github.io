@@ -4,7 +4,7 @@ description: "Adrien Anthore's personnal web page"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
-date_format: "%Y"
+date_format: "since %Y"
 
 # Layout
 
