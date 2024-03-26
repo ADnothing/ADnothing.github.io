@@ -13,12 +13,12 @@ Today, I make videos about physics in general, Astronomy/Astrophysics, and scien
 I also post photos of my observations and my activities.
 To follow and support me, follow this [link](https://linktr.ee/lobservatoiredadrien)!
 
-## YouTube
+## [YouTube](https://www.youtube.com/@lobservatoiredadrien)
 
 
 
-## Instagram
+## [Instagram](https://www.instagram.com/lobservatoire_dadrien/)
 
 
 
-## TikTok
+## [TikTok](https://www.tiktok.com/@observatoire_dadrien)
