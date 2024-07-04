@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "CV", url: "https://adnothing.github.io/doc/ANTHORE_CV.pdf"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:adrien.anthore@obspm.fr"}
+  - {title: Mail, icon: envelope, url: "mailto:adrien.anthore@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/ADnothing"}
   - {title: Linkedin, icon: linkedin, url: "https://fr.linkedin.com/in/adrien-anthore-625152225"}
   - {title: Links, icon: link, url: "https://linktr.ee/lobservatoiredadrien"}
