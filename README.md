@@ -22,6 +22,7 @@ The images I take are mostly from my EA, but also from Lucky Imaging.
 I also make observational drawings.
 
 If you are interested in my work and would like me to participate in an event you are organising, whether for school or other purposes, please contact me with details of your project. I will be happy to help and offer my services.
+[Send a mail here](mailto:adrien.anthore@gmail.com?subject=[Event%20proposition])
 
 ## Center of interest
 
