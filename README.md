@@ -6,7 +6,7 @@ layout: page
 
 ## Me in a few words
 
-I am Adrien Anthore; 2nd year Master's student at the Paris Observatory - PSL; President of BDE de l'Observatoire de Paris (student council); Content creator for L'Observatoire d'Adrien; Amateur astronomer.
+I am Adrien Anthore; 2nd year Master's student at the Paris Observatory - PSL; Content creator for L'Observatoire d'Adrien; Amateur astronomer.
 
 ## Bio
 
@@ -26,4 +26,4 @@ If you are interested in my work and would like me to participate in an event yo
 
 ## Center of interest
 
-Astrophysics/Astronomy; Radioastronomy; Galaxies; Machine-Learning; Observations; Popular Science; Open Science.
+Astrophysics/Astronomy; Radioastronomy; Interferometry; Galaxies; Machine-Learning & Deep Learning; Observations; Popular Science; Open Science.
