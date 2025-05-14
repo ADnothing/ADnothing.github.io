@@ -7,18 +7,5 @@ $link-color: #68f !default
 $dark: #212228 !default
 $light: #ffffff !default
 
-body
-  background-image: url('/images/M42.jpg')
-  background-size: cover
-  background-repeat: no-repeat
-  background-position: center
-  background-attachment: fixed
-  color: $dark
-  font-family: $font-family
-  font-size: $font-size
-  font-weight: $font-weight
-  line-height: $line-height
-
-
 @function reduce ($percent)
   @return rgba(mix($dark, $light), $percent / 100)
