@@ -8,7 +8,7 @@ Some images to illustrate my work, research and life as an astrophysicist in gen
 
 <div style="text-align: center;">
   <img id="slideshow" src="/images/Nancay_HI_spectra.jpg" alt="Slideshow" style="width: 80%; max-width: 600px; border-radius: 10px; box-shadow: 0 0 10px #0004;">
-  <p id="caption" style="font-style: italic; margin-top: 10px;"></p>
+  <p id="caption" style="font-style: italic; margin-top: 10px;"> </p>
 </div>
 
 <script>
@@ -27,8 +27,11 @@ Some images to illustrate my work, research and life as an astrophysicist in gen
   const imgElement = document.getElementById("slideshow");
   const captionElement = document.getElementById("caption");
 
+  captionElement.textContent = descriptions[index];
+  
   setInterval(() => {
     index = (index + 1) % images.length;
     imgElement.src = images[index];
+    captionElement.textContent = descriptions[index];
   }, 10000); // 10s
 </script>
