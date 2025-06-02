@@ -1,3 +1,9 @@
+---
+title:  "Slideshow"
+permalink: "/slideshow/"
+layout: post
+---
+
 <div style="text-align: center;">
   <img id="slideshow" src="/images/Nancay_HI_spectra.jpg" alt="Slideshow" style="width: 80%; max-width: 600px; border-radius: 10px; box-shadow: 0 0 10px #0004;">
 </div>
