@@ -8,7 +8,7 @@ Some pictures from my work/observations
 
 <div style="text-align: center;">
   <img id="slideshow" src="/images/Nancay_HI_spectra.jpg" alt="Slideshow" style="width: 80%; max-width: 600px; border-radius: 10px; box-shadow: 0 0 10px #0004;">
-  <p id="caption" style="font-style: italic; margin-top: 10px;">Optical images and corresponding HI 21 cm line profiles of galaxies I observed in 2022 with the Nançay Radio Telescope. The optical images are $5'\times5'$ fields from the Digitized Sky Survey (DSS2, B band). Each HI spectrum shows the flux density (in mJy) as a function of radial velocity (in $km.s^{-1}$).</p>
+  <p id="caption" style="font-style: italic; margin-top: 10px;">Optical images and corresponding HI 21 cm line profiles of galaxies I observed in 2022 with the Nançay Radio Telescope. The optical images are $5\text{'}\times5\text{'}$ fields from the Digitized Sky Survey (DSS2, B band). Each HI spectrum shows the flux density (in mJy) as a function of radial velocity (in $\text{km.s}^{-1}$).</p>
 </div>
 
 <script>
@@ -17,7 +17,7 @@ Some pictures from my work/observations
     "/images/Adromeda.jpg"
   ];
   const descriptions = [
-    "Optical images and corresponding HI 21 cm line profiles of galaxies I observed in 2022 with the Nançay Radio Telescope. The optical images are $5'\times5'$ fields from the Digitized Sky Survey (DSS2, B band). Each HI spectrum shows the flux density (in mJy) as a function of radial velocity (in $km.s^{-1}$).",
+    "Optical images and corresponding HI 21 cm line profiles of galaxies I observed in 2022 with the Nançay Radio Telescope. The optical images are $5\text{'}\times5\text{'}$ fields from the Digitized Sky Survey (DSS2, B band). Each HI spectrum shows the flux density (in mJy) as a function of radial velocity (in $\text{km.s}^{-1}$).",
     "My bolometric observation of M31 taken with E.A. device and upscaled with AI."
   ];
 
