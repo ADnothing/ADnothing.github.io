@@ -4,6 +4,8 @@ permalink: "/slideshow/"
 layout: post
 ---
 
+Some pictures from my work/observations  
+
 <div style="text-align: center;">
   <img id="slideshow" src="/images/Nancay_HI_spectra.jpg" alt="Slideshow" style="width: 80%; max-width: 600px; border-radius: 10px; box-shadow: 0 0 10px #0004;">
 </div>
@@ -11,8 +13,7 @@ layout: post
 <script>
   const images = [
     "/images/Nancay_HI_spectra.jpg",
-    "/images/Adromeda.jpg",
-    "/images/img3.jpg"
+    "/images/Adromeda.jpg"
   ];
   let index = 0;
   const imgElement = document.getElementById("slideshow");
