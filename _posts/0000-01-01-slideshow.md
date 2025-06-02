@@ -8,6 +8,7 @@ Some images to illustrate my work, research and life as an astrophysicist in gen
 
 <div style="text-align: center;">
   <img id="slideshow" src="/images/Nancay_HI_spectra.jpg" alt="Slideshow" style="width: 80%; max-width: 600px; border-radius: 10px; box-shadow: 0 0 10px #0004;">
+  <p id="caption" style="font-style: italic; margin-top: 10px;"></p>
 </div>
 
 <script>
