@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Slideshow</title>
+  <style>
+    body { text-align: center; font-family: sans-serif; }
+    img { width: 80%; max-width: 600px; border-radius: 10px; box-shadow: 0 0 10px #0004; }
+  </style>
+</head>
+<body>
+  <h1>Some cool images</h1>
+  <img id="slideshow" src="images/Andromeda.jpg" alt="slideshow">
+  
+  <script>
+    const images = [
+      "images/Andromeda.jpg",
+      "images/Nancay_HI_spectra.jpg",
+    ];
+    let index = 0;
+    const imgElement = document.getElementById("slideshow");
+
+    setInterval(() => {
+      index = (index + 1) % images.length;
+      imgElement.src = images[index];
+    }, 10000); // 3 secondes par image
+  </script>
+</body>
+</html>
