@@ -21,7 +21,7 @@ Some images to illustrate my work, research and life as an astrophysicist in gen
   const descriptions = [
     "Optical images and corresponding HI 21 cm line profiles of galaxies I observed in 2022 with the Nançay Radio Telescope. The optical images are 5 minutes squared fields from the Digitized Sky Survey (DSS2, B band). Each HI spectrum shows the flux density (in mJy) as a function of radial velocity (in km/s).",
     "My bolometric observation of M31 taken with E.A. device and upscaled with AI.",
-    "Group picture of the conference AI for Radioastronomy 2025, Göteborg, Sweeden.",
+    "Group picture of the conference AI for Radioastronomy 2024, Göteborg, Sweeden.",
     "Group picture of the french related people present during the SKAO science meeting 2025."
   ];
 
