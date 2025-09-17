@@ -6,7 +6,7 @@ layout: page
 
 ## Bio
 
-I'm Adrien Anthore, an astrophysicist and amateur astronomer. I am curently PhD student at Observatoire Astronomique de Strasbourg directed by Laurent Chemin (ObAS) and David Cornu (LUX, ObsPM).  
+I'm Adrien Anthore, an astrophysicist and amateur astronomer. I am curently a PhD student at Observatoire Astronomique de Strasbourg directed by Laurent Chemin (ObAS) and David Cornu (LUX, ObsPM). I am also a member of the LADUMA (Looking At the Distant Universe with the MeerKAT Array) collaboration.  
 I graduated from the Physics Intensive Track at the Sorbonne University (2022), **SPRINT** (Sorbonne Physics Research Intensive and New Technologies), and from the Astrophysics Graduate Programme at the Paris Observatory - PSL (2024), in **IRT** (International Research Track), specialising in Observational Astrophysics.
 
 Since 2021, I have been actively involved in science communication and popularisation. I am committed to sharing my knowledge and raising public awareness of the importance of scientific research and the challenges it faces. It is in this spirit that I have created this programme: [**L'Observatoire d'Adrien**](https://linktr.ee/lobservatoiredadrien), a programme for popularising astrophysical topics on the Internet. In addition to my online activities, I regularly participate as a speaker in scientific congresses or festivals open to the general public, such as the Explor'Espace festival in 2021 or the "Fête de la Science" in universities since 2022. I also intervene in the school environment, mainly to discuss scientific studies and career prospects.
