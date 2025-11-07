@@ -2,6 +2,8 @@
 {% for post in posts %}
   <article>
     {% include meta.html post=post preview=true %}
+    {{ post.excerpt }}
+    
     {% if post.excerpt != post.content %}
       <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
     {% endif %}
