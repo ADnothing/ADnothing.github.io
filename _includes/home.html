@@ -5,7 +5,9 @@
     {{ post.excerpt }}
     
     {% if post.excerpt != post.content %}
-      <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
+      <div class="more">
+        <a href="{{ post.url | relative_url }}" style="display: block; text-align: center;">read more</a>
+      </div>
     {% endif %}
   </article>
 {% endfor %}
