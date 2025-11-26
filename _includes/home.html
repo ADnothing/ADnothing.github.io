@@ -5,8 +5,8 @@
     {{ post.excerpt }}
     
     {% if post.excerpt != post.content %}
-      <div class="more">
-        <a href="{{ post.url | relative_url }}" style="display: block; text-align: center;">read more</a>
+      <div class="more" style="text-align: center; margin-top: 1rem;">
+        <a href="{{ post.url | relative_url }}" style="display: inline-block; padding: 0.5rem 1rem; border-radius: 6px; text-decoration: none; background-color: #f0f0f0;">read more</a>
       </div>
     {% endif %}
   </article>
