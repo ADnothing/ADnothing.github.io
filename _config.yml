@@ -21,7 +21,7 @@ excerpt_separator: "<!--more-->"
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "README.md", title: "About Me"}
-  - {title: "CV", url: "https://adnothing.github.io/doc/ANTHORE_CV.pdf"}
+  - {title: "CV", url: "https://seafile.unistra.fr/f/45df0eeb8fa743d7adf0/"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:adrien.anthore@gmail.com"}
