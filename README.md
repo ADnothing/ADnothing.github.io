@@ -23,4 +23,7 @@ If you are interested in my work and would like me to participate in an event yo
 
 ## Research interests
 
-Galaxy: general - Radio lines: galaxies - Radio continuum: galaxies - Instrumentation: interferometers - Methods: observational - Methods: data analysis - Deep Learning. 
+* Galaxy evolution;
+* Radio Astronomy;
+* HI in and around galaxies;
+* Deep Learning.
